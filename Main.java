@@ -18,6 +18,7 @@ public class Main {
         rose.flover();
         Flower sakura = new Flower("sakura","Japan",1,5);
         sakura.flover();
+        System.out.println("my flover");
 
 
     }
